@@ -106,7 +106,7 @@ st.divider()
 ################# 상품 설명서
 
 if st.button("상품설명서 생성"):
-    st.image('SoolyHome/samsungELS.png', caption='삼성증권 ELS 상품 예시')
+    st.image('samsungELS.PNG', caption='삼성증권 ELS 상품 예시')
 
 st.button("Reset(다시시작)", type="primary")
 st.divider()
